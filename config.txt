@@ -1,0 +1,3 @@
+Rze7Pk48Bw5gEMXK
+
+mongodb+srv://viviannzemeke:<password>@cluster0.8jitj7a.mongodb.net/
